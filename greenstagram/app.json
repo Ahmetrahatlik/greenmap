@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Greenstagram",
+    "slug": "greenstagram",
+    "version": "1.0.0",
+    "scheme": "greenstagram",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1b5e20"
+    },
+    "android": {
+      "package": "com.dinazort.greenstagram",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#1b5e20"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "485d22ec-d13a-41a0-816d-b1b1a26fdd36"
+      }
+    }
+  }
+}
